@@ -69,5 +69,3 @@ db.ule.exports= function(sequelize, DataTypes) {
         }
     })
 };
-
-module.export 
